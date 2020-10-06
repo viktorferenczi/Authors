@@ -1,6 +1,6 @@
 ## CRUD crossplatform mobile app
 
-This project features a full crud operation capable [React Native] crossplatform app that is connected to a RESTfull [Lumen] API and a [MySQL] DB which are deployed on [AWS].
+This project features a full crud operation capable [React Native] crossplatform app that is connected to a RESTful [Lumen] API and a [MySQL] DB which are deployed on [AWS].
 
   - Full Crud
   - Online awailablity of the API
